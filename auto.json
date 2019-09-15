@@ -1,0 +1,13 @@
+{
+    "id" : 5,
+    "make" : "audi",
+    "model" : "a5",
+    "legal": true,
+    "created_at" : new Date(),
+    "owners" : ["Juan","Alexander","Jimmy"],
+    "settings" : {
+        "color" : "red",
+        "year" : 2012
+    }
+}
+
